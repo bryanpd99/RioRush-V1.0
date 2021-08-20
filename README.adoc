@@ -1,0 +1,23 @@
+= 	*	*	* 	RIO RUSH - DELIVERY	*	*	*	*	*
+PRODUCTO DESARROLLADO CON FINES MERAMENTE EDUCATIVOS
+ESPOCH - ECUADOR
+ 
+Barrera Adriana                 
+Caiza Henry                    
+Gutiérrez Nicolás                 
+Jiménez Kerly                    
+Pelaes Bryan                                                     
+Rivera Alex   
+
+TECNOLOGÍAS DE DESARROLLO :                                                         
+REVISAR LA DOCUMENTACION DEL PROYECTO EN : https://docs.google.com/document/d/1OMjt-nwvs5Vtl8pD2LDJ9renOu5A-kB4n7uO8MuItCs/edit?usp=sharing
+
+INSTALACIÓN DESDE CLI: mvn install
+
+NOTA : ABRIR EL PROYECTO  EN UN IDE QUE SOPORTE EL FRAMEWORK MAVEN(Idea, VSCode, Eclipse, NetBeans etc.).
+
+LIBRERIAS 
+. https://github.com/shannah/CodeRAD[CodeRAD library]
+. https://github.com/shannah/RADChatApp[RADChatApp]
+
+

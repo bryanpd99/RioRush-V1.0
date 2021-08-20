@@ -2,12 +2,12 @@
 PRODUCTO DESARROLLADO CON FINES MERAMENTE EDUCATIVOS
 ESPOCH - ECUADOR
  
-Barrera Adriana                 
-Caiza Henry                    
-Gutiérrez Nicolás                 
-Jiménez Kerly                    
-Pelaes Bryan                                                     
-Rivera Alex   
+#Barrera Adriana                 
+#Caiza Henry                    
+#Gutiérrez Nicolás                 
+#Jiménez Kerly                    
+#Pelaes Bryan                                                     
+#Rivera Alex   
 
 TECNOLOGÍAS DE DESARROLLO :                                                         
 REVISAR LA DOCUMENTACION DEL PROYECTO EN : https://docs.google.com/document/d/1OMjt-nwvs5Vtl8pD2LDJ9renOu5A-kB4n7uO8MuItCs/edit?usp=sharing
